@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChemWeb-App/static/css/main.f95b7867.css",
+    "main.js": "/ChemWeb-App/static/js/main.6a5b1a0d.js",
+    "static/js/787.a2cb61a6.chunk.js": "/ChemWeb-App/static/js/787.a2cb61a6.chunk.js",
+    "static/media/ss.png": "/ChemWeb-App/static/media/ss.357f35ecfecee028523e.png",
+    "static/media/copyrightlogo.png": "/ChemWeb-App/static/media/copyrightlogo.2aad9e544aa1060a4e0c.png",
+    "static/media/helvetica-neu.ttf": "/ChemWeb-App/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/depauw.jpeg": "/ChemWeb-App/static/media/depauw.d4ef1fe83eefed2e26d3.jpeg",
+    "static/media/LaBelleAurore.woff2": "/ChemWeb-App/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/ChemWeb-App/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/ChemWeb-App/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/ChemWeb-App/index.html",
+    "main.f95b7867.css.map": "/ChemWeb-App/static/css/main.f95b7867.css.map",
+    "main.6a5b1a0d.js.map": "/ChemWeb-App/static/js/main.6a5b1a0d.js.map",
+    "787.a2cb61a6.chunk.js.map": "/ChemWeb-App/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f95b7867.css",
+    "static/js/main.6a5b1a0d.js"
+  ]
+}
