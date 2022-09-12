@@ -1,0 +1,152 @@
+.home-page {
+
+	#new{
+		top:0px;
+		width : 10%;
+		padding-left: 5%;
+		padding-top: 3%;
+	
+
+	}
+
+
+	.text-zone {
+	  position: absolute;
+	  left: 10%;
+	  top: 50%;
+	  transform: translateY(-50%);
+	  width: 70%;
+	  max-height: 90%;
+	}
+  
+	h1 {
+	  color: #fff;
+	  font-size: 56px;
+	  line-height: 53px;
+	  margin: 0;
+	  font-family: 'Coolvetica';
+	  font-weight: 400;
+
+	  
+  
+	  &::before {
+		content: '<Founder & Developer  : Suleman Baloch>';
+		
+		font-family: 'La Belle Aurore', cursive;
+		color: #000000;
+		
+		font-size: 20px;
+		position: absolute;
+		margin-top: -290px;
+		left: -30px;
+		opacity: 1;
+	  }
+  
+	  &::after {
+		
+		font-family: 'La Belle Aurore', cursive;
+		color: #ffd700;
+		font-size: 18px;
+		position: absolute;
+		margin-top: 18px;
+		margin-left: 20px;
+		animation: fadeIn 1s 1.7s backwards;
+		opacity: 0.6;
+	  }
+  
+	  img {
+		margin-left: 20px;
+		opacity: 0;
+		width: 32px;
+		height: auto;
+		animation: rotateIn 1s linear both;
+		animation-delay: 1.4s;
+	  }
+	}
+  
+	h2 {
+	  color: #8d8d8d;
+	  margin-top: 20px;
+	  font-weight: 400;
+	  font-size: 11px;
+	  font-family: sans-serif;
+	  letter-spacing: 3px;
+	  animation: fadeIn 1s 1.8s backwards;
+	}
+  
+	.flat-button {
+	  color: #708090;
+	  font-size: 20px;
+	  font-weight: 400;
+	  letter-spacing: 4px;
+	  font-family: sans-serif;
+	  text-decoration: none;
+	  padding: 10px 18px;
+	  border: 1px solid #000000;
+	  margin-top: 25px;
+	  float: left;
+	  animation: fadeInAnimation 1s 1.8s backwards;
+	  white-space: nowrap;
+  
+	  &:hover {
+		background: #AA336A;
+		color: #FFFFFF;
+	  }
+
+	}
+
+	.flat-button2{
+		color: #708090;
+		font-size: 20px;
+		font-weight: 400;
+		letter-spacing: 4px;
+		font-family: sans-serif;
+		text-decoration: none;
+		padding: 10px 18px;
+		padding-left: 30px;
+		padding-right: 30px;
+		border: 1px solid #000000;
+		margin-top: 25px;
+		margin-left : 50px;
+		float: left;
+		animation: fadeInAnimation 1s 1.8s backwards;
+		white-space: nowrap;
+	
+		&:hover {
+		  background: #008000;
+		  color: #FFFFFF;
+		}
+  
+	  }
+
+	  .flat-button3{
+		color: #708090;
+		font-size: 20px;
+		font-weight: 400;
+		letter-spacing: 4px;
+		font-family: sans-serif;
+		text-decoration: none;
+		padding: 10px 18px;
+		padding-left: 30px;
+		padding-right: 30px;
+		border: 1px solid #000000;
+		margin-top: 25px;
+		margin-left : 50px;
+		float: left;
+		animation: fadeInAnimation 1s 1.8s backwards;
+		white-space: nowrap;
+	
+		&:hover {
+		  background: #ADD8E6;
+		  color: #FFFFFF;
+		}
+  
+	  }
+
+
+
+  }
+
+
+  
+  
